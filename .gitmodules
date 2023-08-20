@@ -1,0 +1,3 @@
+[submodule "cyberbacher"]
+	path = cyberbacher
+	url = https://github.com/stffffn/cyberbacher.git
